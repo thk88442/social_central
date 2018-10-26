@@ -1,0 +1,15 @@
+.Home {
+    display: flex;
+    padding: 20px;
+    vertical-align: center;
+}
+
+.homeIcon {
+    align-self: center;
+    margin-right: 10px;
+    color: rgb(0, 47, 105);
+}
+
+.Home p {
+    font-size: 1.2rem;
+}

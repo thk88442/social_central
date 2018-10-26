@@ -1,0 +1,16 @@
+.Mainbody {
+    position: relative;
+    top: 75px;
+    height: 100vw;
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(232, 245, 255);
+}
+
+@media (max-width: 800px) {
+    .Mainbody {
+        width: 100%;
+    };
+}
